@@ -1,81 +1,91 @@
-[{
-    "distance": 41.741369194629698,
-    "type": "image",
-    "users_in_photo": [],
-    "filter": "Earlybird",
-    "tags": [],
-    "comments": {
-        "count": 2
-    },
-    "caption": null,
-    "likes": {
-        "count": 1
-    },
-    "link": "http://instagr.am/p/BQEEq/",
-    "user": {
-        "username": "mahaface",
-        "profile_picture": "http://distillery.s3.amazonaws.com/profiles/profile_1329896_75sq_1294131373.jpg",
-        "id": "1329896"
-    },
-    "created_time": "1296251679",
-    "images": {
-        "low_resolution": {
-            "url": "http://distillery.s3.amazonaws.com/media/2011/01/28/0cc4f24f25654b1c8d655835c58b850a_6.jpg",
-            "width": 306,
-            "height": 306
+[
+    {
+        "distance": 41.741369194629698,
+        "type": "image",
+        "users_in_photo": [],
+        "filter": "Earlybird",
+        "tags": [],
+        "comments": {
+            "count": 2
         },
-        "thumbnail": {
-            "url": "http://distillery.s3.amazonaws.com/media/2011/01/28/0cc4f24f25654b1c8d655835c58b850a_5.jpg",
-            "width": 150,
-            "height": 150
+        "caption": {
+            "text": "City of Stars"
         },
-        "standard_resolution": {
-            "url": "http://distillery.s3.amazonaws.com/media/2011/01/28/0cc4f24f25654b1c8d655835c58b850a_7.jpg",
-            "width": 612,
-            "height": 612
+        "likes": {
+            "count": 1
+        },
+        "link": "https://www.google.com/",
+        "user": {
+            "username": "mahaface",
+            "profile_picture": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+            "id": "1329896"
+        },
+        "created_time": "1296251679",
+        "images": {
+            "low_resolution": {
+                "url": "https://i.pinimg.com/originals/18/99/07/1899072ff62e9455aed4c53be5fe9654.png",
+                "width": 306,
+                "height": 306
+            },
+            "thumbnail": {
+                "url": "https://i.pinimg.com/originals/18/99/07/1899072ff62e9455aed4c53be5fe9654.png",
+                "width": 150,
+                "height": 150
+            },
+            "standard_resolution": {
+                "url": "https://i.pinimg.com/originals/18/99/07/1899072ff62e9455aed4c53be5fe9654.png",
+                "width": 612,
+                "height": 612
+            }
+        },
+        "id": "20988202",
+        "location": {
+            "name": "Early Bird"
         }
     },
-    "id": "20988202",
-    "location": null
-},
-{
-    "distance": 41.741369194629698,
-    "type": "video",
-    "users_in_photo": null,
-    "filter": "Vesper",
-    "tags": [],
-    "comments": {
-        "count": 2
-    },
-    "caption": null,
-    "likes": {
-        "count": 1
-    },
-    "link": "http://instagr.am/p/D/",
-    "user": {
-        "username": "kevin",
-        "full_name": "Kevin S",
-        "profile_picture": "...",
-        "id": "3"
-    },
-    "created_time": "1279340983",
-    "images": {
-        "low_resolution": {
-            "url": "http://distilleryimage2.ak.instagram.com/11f75f1cd9cc11e2a0fd22000aa8039a_6.jpg",
-            "width": 306,
-            "height": 306
+    {
+        "distance": 41.741369194629698,
+        "type": "video",
+        "users_in_photo": null,
+        "filter": "Vesper",
+        "tags": [],
+        "comments": {
+            "count": 2
         },
-        "thumbnail": {
-            "url": "http://distilleryimage2.ak.instagram.com/11f75f1cd9cc11e2a0fd22000aa8039a_5.jpg",
-            "width": 150,
-            "height": 150
+        "caption": {
+            "text": "Why so serious?"
         },
-        "standard_resolution": {
-            "url": "http://distilleryimage2.ak.instagram.com/11f75f1cd9cc11e2a0fd22000aa8039a_7.jpg",
-            "width": 612,
-            "height": 612
+        "likes": {
+            "count": 1
+        },
+        "link": "https://www.google.com/",
+        "user": {
+            "username": "kevin",
+            "full_name": "Kevin S",
+            "profile_picture": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "id": "3"
+        },
+        "created_time": "1279340983",
+        "images": {
+            "low_resolution": {
+                "url": "https://i.pinimg.com/564x/04/bb/21/04bb2164bbfa3684118a442c17d086bf.jpg",
+                "width": 306,
+                "height": 306
+            },
+            "thumbnail": {
+                "url": "https://i.pinimg.com/564x/04/bb/21/04bb2164bbfa3684118a442c17d086bf.jpg",
+                "width": 150,
+                "height": 150
+            },
+            "standard_resolution": {
+                "url": "https://i.pinimg.com/564x/04/bb/21/04bb2164bbfa3684118a442c17d086bf.jpg",
+                "width": 612,
+                "height": 612
+            }
+        },
+        "id": "3",
+        "location": {
+            "name": "Dark side of Earth"
         }
-    },
-    "id": "3",
-    "location": null
-}]
+    }
+]

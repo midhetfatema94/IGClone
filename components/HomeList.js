@@ -42,6 +42,7 @@ class HomeList extends Component {
     // }
     
     renderItem(post) {
+        console.log("each post", post)
         return <ListItem post={post}/>;
     }
 
@@ -55,12 +56,12 @@ class HomeList extends Component {
     // }
 
     render() {
-        // const { isLoading } = this.state;
+        // const { ds, isLoading } = this.state;
         console.log("the state", postData)
         return (
             <FlatList 
                 data={postData}
-                renderItem={this.renderEachRow}
+                renderItem={this.renderItem}
             />
         );
     }

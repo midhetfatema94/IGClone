@@ -7,12 +7,11 @@ import { connect } from 'react-redux';
 class ListItem extends Component {
 
     componentWillUpdate() {
-
         LayoutAnimation.spring();
     }
 
     renderDescription() {
-        const { caption } = this.props.post;
+        const { caption } = this.props.post.item;
         var description = "No caption"
         
         if (caption != null) {
@@ -29,7 +28,7 @@ class ListItem extends Component {
     }
     
     renderLocation() {
-        const { location } = this.props.post;
+        const { location } = this.props.post.item;
         var locationTitle = "No location"
 
         if (location != null) {
@@ -45,9 +44,9 @@ class ListItem extends Component {
 
     render() {
         const { titleStyle, thumbnailStyle, picturePostStyle, headerStyle } = styles;
-        const { user, images } = this.props.post;
+        const { user, images } = this.props.post.item;
         
-        console.log('items', this.props.post);
+        console.log('items', this.props.post.item.user);
 
         return (
             <View style={headerStyle}>
